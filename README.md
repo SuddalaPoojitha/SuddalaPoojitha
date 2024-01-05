@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SuddalaPoojitha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
+- 💞️ I have learned Java full stack
 - 📫 How to reach me :www.linkedin.com/in/poojitha-suddala-8728a9275
 
 <!---
